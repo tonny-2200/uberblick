@@ -1,31 +1,4 @@
 {
-    "India": [
-        {
-            "category": "india",
-            "title": "'Ram drohi': BJP slams Rahul Gandhi for 'mythological' figure remark",
-            "body_text": "BJP spokesperson shehzad poonawalla said the nation will never forgive him for questioning Lord Ram's existence . Gandhi made the remark while answering a question on how secular politics should take shape in a time influenced by Hindu nationalism . he added that none of india’s respected reformers or thinkers have been bigots ."
-        },
-        {
-            "category": "india",
-            "title": "Jagannath temple row: TMC hits out at BJP for 'raising questions on the Pratishtha of Digha temple'",
-            "body_text": "BJP-led Odisha government accused of hypocrisy in its 'Hindutva' stance . he said any concerns regarding the temple's consecration should be addressed by the four Shankaracharyas, not political leaders . this comes after west Bengal chief minister inaugurated the Rs 250 crore temple . critics in west Bengal, including BJP leaders, objected to the 'Jagannath Dham' label ."
-        },
-        {
-            "category": "india",
-            "title": "History in motion: Red Fort’s new night show dazzles with drama, depth",
-            "body_text": "'jai hind' is a late evening sound and light show that recreates the iconic fort's chequered life like never before . the show is curated by 'monument mitra' Dalmia Bharat Limited, as part of the union ministry of culture's 'adopt a heritage' scheme . it is the first time in a Unesco world heritage site in india that live actors and dancers perform ."
-        },
-        {
-            "category": "india",
-            "title": "Three Army soldiers killed as truck falls into deep gorge in J&K's Ramban",
-            "body_text": "tragic incident occurred near battery chashma on national highway 44 . army truck was part of a convoy travelling from jammu to Srinagar . the driver reportedly lost control, sending the vehicle down the steep slope. the deceased have been identified as Sepoys Amit Kumar, sujeet Kumar, and man ba"
-        },
-        {
-            "category": "india",
-            "title": "Air Chief Marshal meets PM Modi amid India-Pak tensions over Pahalgam attack",
-            "body_text": "air chief marshal met prime minister at his residence in the national capital . this comes a day after held meeting with navy chief admiral dinesh K tripathi . political parties across the opposition have pledged their support for any government action against those responsible for the terrorist attack . pm modi had given freehand to the armed forces to decide on the mode, targets, and timing of the response to Pakistan ."
-        }
-    ],
     "World": [
         {
             "category": "world",
@@ -34,31 +7,53 @@
         },
         {
             "category": "world",
-            "title": "'People bet on football and divorces, why not Popes?' Betting on next pontiff gains popularity ahead of conclave",
-            "body_text": "betting on the next pope has been a strange, enduring tradition for more than six centuries . parolin currently leads the pack at 9/4 odds, closely followed by the “asian Francis” at 3/1 . in 2013, bettors were blindsided when argentina’s Jorge Mario Bergoglio emerged as pope at 33/1 odds . if a pope hails from a nation that has never had a pontiff before, that’s the bookmakers’ favorite scenario ."
-        },
-        {
-            "category": "world",
-            "title": "5.3-magnitude earthquake strikes west Texas near El Paso",
-            "body_text": "a 5.3-magnitude earthquake struck west texas on saturday . the epicentre was in Culberson county, 125 miles east of El paso . no injuries or damage has been reported"
-        },
-        {
-            "category": "world",
             "title": "Footage captures moment Yemen missile strikes near Israel’s main airport",
             "body_text": "missile fired from Yemen lands near an access road within the airport perimeter . emergency services say a man in his 50s is taken to hospital in good-to-moderate condition . two women, aged 54 and 38, were injured by the blast shockwave . a 64-year-old man was lightly wounded by flying debris, and two other women were hurt ."
         },
         {
             "category": "world",
-            "title": "Pakistan envoy's nuclear threat to India amid tensions over Pahalgam attack",
-            "body_text": "ambassador to russia claims intelligence suggests india is planning military strikes . he said any attempt to usurp the water of the lower riparian would be an act of war . tensions have escalated since the terrorist attack in pahalgam that killed 26 tourists . india has dismissed Pakistan's call for a “neutral” probe into the killings ."
+            "title": "Putin says he hopes there will be no need to use nuclear weapons in Ukraine",
+            "body_text": "the need to use nuclear weapons in Ukraine has not arisen, Putin says . he says he hopes the conflict will not be required . Russia and Ukraine are at odds over competing ceasefire proposals . 11 people were wounded in a Russian drone attack overnight on the Ukrainian capital, kyiv, ukraine's state emergency service says a total of 165 drones were fired ."
+        },
+        {
+            "category": "world",
+            "title": "UK police arrest several Iranian men over alleged attack plot",
+            "body_text": "five men aged between 29 and 46 were detained on suspicion of preparing a terrorist act . police say they are searching several properties in London, Manchester and Swindon . home secretary yvette cooper says the arrests demonstrate the need to adapt to national security threats . the alleged plot targeted a single location that was not being named for operational reasons . uk's official terror threat level stands at substantial, meaning an attack is likely ."
+        },
+        {
+            "category": "world",
+            "title": "‘We can win it all’: Nigel Farage’s Reform UK smashes local elections, declares war on Westminster",
+            "body_text": "reform's rise taps into a deep well of frustration with the traditional left-right shuffle between labour and the conservatives . the party's playbook is blunt — attack immigration, slash taxes, scrap diversity policies . reform’s reach goes beyond tax fatigue and stoking cultural grievances, pointing to cases like the long-running grooming scandal ."
+        }
+    ],
+    "India": [
+        {
+            "category": "india",
+            "title": "Air Chief Marshal meets PM Modi amid India-Pak tensions over Pahalgam attack",
+            "body_text": "air chief marshal met prime minister at his residence in the national capital . this comes a day after held meeting with navy chief admiral dinesh K tripathi . political parties across the opposition have pledged their support for any government action against those responsible for the terrorist attack . pm modi had given freehand to the armed forces to decide on the mode, targets, and timing of the response to Pakistan ."
+        },
+        {
+            "category": "india",
+            "title": "Jagannath temple row: TMC hits out at BJP for 'raising questions on the Pratishtha of Digha temple'",
+            "body_text": "BJP-led Odisha government accused of hypocrisy in its 'Hindutva' stance . he said any concerns regarding the temple's consecration should be addressed by the four Shankaracharyas, not political leaders . this comes after west Bengal chief minister inaugurated the Rs 250 crore temple . critics in west Bengal, including BJP leaders, objected to the 'Jagannath Dham' label ."
+        },
+        {
+            "category": "india",
+            "title": "'Ram drohi': BJP slams Rahul Gandhi for 'mythological' figure remark",
+            "body_text": "BJP spokesperson shehzad poonawalla said the nation will never forgive him for questioning Lord Ram's existence . Gandhi made the remark while answering a question on how secular politics should take shape in a time influenced by Hindu nationalism . he added that none of india’s respected reformers or thinkers have been bigots ."
+        },
+        {
+            "category": "india",
+            "title": "Three Army soldiers killed as truck falls into deep gorge in J&K's Ramban",
+            "body_text": "tragic incident occurred near battery chashma on national highway 44 . army truck was part of a convoy travelling from jammu to Srinagar . the driver reportedly lost control, sending the vehicle down the steep slope. the deceased have been identified as Sepoys Amit Kumar, sujeet Kumar, and man ba"
+        },
+        {
+            "category": "india",
+            "title": "History in motion: Red Fort’s new night show dazzles with drama, depth",
+            "body_text": "'jai hind' is a late evening sound and light show that recreates the iconic fort's chequered life like never before . the show is curated by 'monument mitra' Dalmia Bharat Limited, as part of the union ministry of culture's 'adopt a heritage' scheme . it is the first time in a Unesco world heritage site in india that live actors and dancers perform ."
         }
     ],
     "Technology": [
-        {
-            "category": "technology",
-            "title": "Wordle #1415: Clues and answer revealed for Sunday, May 4",
-            "body_text": "wordle is a daily word puzzle game that challenges players to guess a five-letter word within six attempts . the game's minimalist design and once-a-day format have contributed to its viral success . to solve today's wordle, we've curated a fresh array of hints and clues . we'll reveal the answer directly below if you haven't cracked the code yet ."
-        },
         {
             "category": "technology",
             "title": "Desi startups making sexual health means Big Business",
@@ -76,11 +71,21 @@
         },
         {
             "category": "technology",
-            "title": "Garena Free Fire Max redeem codes for May 4: Win exciting rewards daily",
-            "body_text": "a standout feature of garena free fire max is its daily redemption codes . these time-limited codes remain active for 12 to 18 hours, fostering anticipation . the 12-character alphanumeric codes offer daily rewards to a maximum of 500 registered players . players who use redeem codes gain access to valuable in-game items, including weapons, diamonds, and exclusive skins ."
+            "title": "Wordle #1415: Clues and answer revealed for Sunday, May 4",
+            "body_text": "wordle is a daily word puzzle game that challenges players to guess a five-letter word within six attempts . the game's minimalist design and once-a-day format have contributed to its viral success . to solve today's wordle, we've curated a fresh array of hints and clues . we'll reveal the answer directly below if you haven't cracked the code yet ."
+        },
+        {
+            "category": "technology",
+            "title": "Elon Musk creates in Texas that no other company and business leader has ever done, makes it a ...",
+            "body_text": "the site is located at Boca chica bay, near the border between the u.s. and mexico . the vote was held among about 283 eligible people, most of whom were SpaceX employees or had links to the company . in 2021, Musk first mentioned plans to create a city called Starbase . he said the area would include not just launch facilities but also homes, businesses, and public services to support future space missions ."
         }
     ],
     "Business": [
+        {
+            "category": "business",
+            "title": "India stock outlook: Markets brace for geopolitical tensions, Fed policy, FPI trends to steer sentiment",
+            "body_text": "the past week marked a historic run for Indian equities, with both the Sensex and Nifty posting their longest winning streak of 2025 . the upcoming will be closely tracked for signs of any transition in interest rate policy . geopolitical tensions remain a major risk, with the terrorist attack in pahalgam and any fresh developments in india’s relations with Pakistan being closely watched ."
+        },
         {
             "category": "business",
             "title": "Warren Buffett to hand over reins to Greg Abel: Top 10 things to know about ‘Oracle of Omaha’s’ successor at Berkshire Hathaway",
@@ -88,18 +93,13 @@
         },
         {
             "category": "business",
+            "title": "US likely to push for tariff cuts, regulatory changes in trade deal with India: GTRI",
+            "body_text": "the u.s. is expected to seek significant changes in india’s trade policies, including reductions in tariffs and regulatory reforms, as part of the ongoing bilateral trade negotiations . the demands include curbing india's minimum support price programs for staple crops such as rice and wheat, removing import barriers on genetically modified (GM) products, and cutting tariffs on farm goods ."
+        },
+        {
+            "category": "business",
             "title": "‘There’s never been…’: What Apple’s Tim Cook, JPMorgan’s Jamie Dimon said on Warren Buffett's retirement move",
             "body_text": "Warren buffett announced he will retire at the end of the year . he has led the conglomerate for over 60 years . bank of america CEO Brian moynihan hailed him for his unparalleled success . environmentalist rose monahan scathing of the appointment of abel a scion of the company's ."
-        },
-        {
-            "category": "business",
-            "title": "From Apple to Dexter Shoes: Warren Buffett’s top wins and biggest blunders in 60 years of investing",
-            "body_text": "as the 94-year-old “Oracle of Omaha” announces plans to retire as CEO by the end of 2025, the spotlight is once again on the investments that made, and occasionally unmade, his fortune . from valuing competitive moats to championing patience and integrity, he rewrote the rules of long-term investing ."
-        },
-        {
-            "category": "business",
-            "title": "WAVES Bazaar sees deals worth over Rs 800 crore, total valuation to exceed Rs 1,000 crore",
-            "body_text": "the inaugural edition of concluded on saturday, with the marketplace recording exceeding Rs 800 crore over its three-day period . the total valuation is projected to surpass 1000 crore in a few days as deal-making was still underway . a key highlight of the bazaar was the buyer-seller market, which alone generated revenue upwards of 500 crore ."
         },
         {
             "category": "business",

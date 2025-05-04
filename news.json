@@ -1,36 +1,9 @@
 {
-    "World": [
-        {
-            "category": "world",
-            "title": "China's president Xi Jinping to visit Russia on May 7",
-            "body_text": "Xi will take part in ceremonies commemorating 80 years since the allied victory over nazi germany in world war ii . the visit will include formal talks between the presidents of the two countries on strengthening their partnership . ministers from both countries are expected to sign several bilateral agreements during the trip, according to a Kremlin statement . china has repeatedly presented itself as a neutral party in the ongoing war, which began with Russia’s invasion of Ukraine in February 2022 ."
-        },
-        {
-            "category": "world",
-            "title": "Footage captures moment Yemen missile strikes near Israel’s main airport",
-            "body_text": "missile fired from Yemen lands near an access road within the airport perimeter . emergency services say a man in his 50s is taken to hospital in good-to-moderate condition . two women, aged 54 and 38, were injured by the blast shockwave . a 64-year-old man was lightly wounded by flying debris, and two other women were hurt ."
-        },
-        {
-            "category": "world",
-            "title": "Putin says he hopes there will be no need to use nuclear weapons in Ukraine",
-            "body_text": "the need to use nuclear weapons in Ukraine has not arisen, Putin says . he says he hopes the conflict will not be required . Russia and Ukraine are at odds over competing ceasefire proposals . 11 people were wounded in a Russian drone attack overnight on the Ukrainian capital, kyiv, ukraine's state emergency service says a total of 165 drones were fired ."
-        },
-        {
-            "category": "world",
-            "title": "UK police arrest several Iranian men over alleged attack plot",
-            "body_text": "five men aged between 29 and 46 were detained on suspicion of preparing a terrorist act . police say they are searching several properties in London, Manchester and Swindon . home secretary yvette cooper says the arrests demonstrate the need to adapt to national security threats . the alleged plot targeted a single location that was not being named for operational reasons . uk's official terror threat level stands at substantial, meaning an attack is likely ."
-        },
-        {
-            "category": "world",
-            "title": "‘We can win it all’: Nigel Farage’s Reform UK smashes local elections, declares war on Westminster",
-            "body_text": "reform's rise taps into a deep well of frustration with the traditional left-right shuffle between labour and the conservatives . the party's playbook is blunt — attack immigration, slash taxes, scrap diversity policies . reform’s reach goes beyond tax fatigue and stoking cultural grievances, pointing to cases like the long-running grooming scandal ."
-        }
-    ],
     "India": [
         {
             "category": "india",
-            "title": "Air Chief Marshal meets PM Modi amid India-Pak tensions over Pahalgam attack",
-            "body_text": "air chief marshal met prime minister at his residence in the national capital . this comes a day after held meeting with navy chief admiral dinesh K tripathi . political parties across the opposition have pledged their support for any government action against those responsible for the terrorist attack . pm modi had given freehand to the armed forces to decide on the mode, targets, and timing of the response to Pakistan ."
+            "title": "History in motion: Red Fort’s new night show dazzles with drama, depth",
+            "body_text": "'jai hind' is a late evening sound and light show that recreates the iconic fort's chequered life like never before . the show is curated by 'monument mitra' Dalmia Bharat Limited, as part of the union ministry of culture's 'adopt a heritage' scheme . it is the first time in a Unesco world heritage site in india that live actors and dancers perform ."
         },
         {
             "category": "india",
@@ -49,15 +22,42 @@
         },
         {
             "category": "india",
-            "title": "History in motion: Red Fort’s new night show dazzles with drama, depth",
-            "body_text": "'jai hind' is a late evening sound and light show that recreates the iconic fort's chequered life like never before . the show is curated by 'monument mitra' Dalmia Bharat Limited, as part of the union ministry of culture's 'adopt a heritage' scheme . it is the first time in a Unesco world heritage site in india that live actors and dancers perform ."
+            "title": "Air Chief Marshal meets PM Modi amid India-Pak tensions over Pahalgam attack",
+            "body_text": "air chief marshal met prime minister at his residence in the national capital . this comes a day after held meeting with navy chief admiral dinesh K tripathi . political parties across the opposition have pledged their support for any government action against those responsible for the terrorist attack . pm modi had given freehand to the armed forces to decide on the mode, targets, and timing of the response to Pakistan ."
+        }
+    ],
+    "World": [
+        {
+            "category": "world",
+            "title": "‘We can win it all’: Nigel Farage’s Reform UK smashes local elections, declares war on Westminster",
+            "body_text": "reform's rise taps into a deep well of frustration with the traditional left-right shuffle between labour and the conservatives . the party's playbook is blunt — attack immigration, slash taxes, scrap diversity policies . reform’s reach goes beyond tax fatigue and stoking cultural grievances, pointing to cases like the long-running grooming scandal ."
+        },
+        {
+            "category": "world",
+            "title": "Footage captures moment Yemen missile strikes near Israel’s main airport",
+            "body_text": "missile fired from Yemen lands near an access road within the airport perimeter . emergency services say a man in his 50s is taken to hospital in good-to-moderate condition . two women, aged 54 and 38, were injured by the blast shockwave . a 64-year-old man was lightly wounded by flying debris, and two other women were hurt ."
+        },
+        {
+            "category": "world",
+            "title": "UK police arrest several Iranian men over alleged attack plot",
+            "body_text": "five men aged between 29 and 46 were detained on suspicion of preparing a terrorist act . police say they are searching several properties in London, Manchester and Swindon . home secretary yvette cooper says the arrests demonstrate the need to adapt to national security threats . the alleged plot targeted a single location that was not being named for operational reasons . uk's official terror threat level stands at substantial, meaning an attack is likely ."
+        },
+        {
+            "category": "world",
+            "title": "Putin says he hopes there will be no need to use nuclear weapons in Ukraine",
+            "body_text": "the need to use nuclear weapons in Ukraine has not arisen, Putin says . he says he hopes the conflict will not be required . Russia and Ukraine are at odds over competing ceasefire proposals . 11 people were wounded in a Russian drone attack overnight on the Ukrainian capital, kyiv, ukraine's state emergency service says a total of 165 drones were fired ."
+        },
+        {
+            "category": "world",
+            "title": "China's president Xi Jinping to visit Russia on May 7",
+            "body_text": "Xi will take part in ceremonies commemorating 80 years since the allied victory over nazi germany in world war ii . the visit will include formal talks between the presidents of the two countries on strengthening their partnership . ministers from both countries are expected to sign several bilateral agreements during the trip, according to a Kremlin statement . china has repeatedly presented itself as a neutral party in the ongoing war, which began with Russia’s invasion of Ukraine in February 2022 ."
         }
     ],
     "Technology": [
         {
             "category": "technology",
-            "title": "Desi startups making sexual health means Big Business",
-            "body_text": "sexual health and wellness startups address the needs of both male and female consumers . telehealth, improved logistics, and wider access to diagnostics have facilitated private and personalized care . this sector could grow into a billion-dollar market in the next 5–6 years, said ankur khaitan, principal at fireside ventures . the estimated 150 million Indian men suffer from sexual dysfunction or fertility issues ."
+            "title": "Elon Musk creates in Texas that no other company and business leader has ever done, makes it a ...",
+            "body_text": "the site is located at Boca chica bay, near the border between the u.s. and mexico . the vote was held among about 283 eligible people, most of whom were SpaceX employees or had links to the company . in 2021, Musk first mentioned plans to create a city called Starbase . he said the area would include not just launch facilities but also homes, businesses, and public services to support future space missions ."
         },
         {
             "category": "technology",
@@ -71,16 +71,21 @@
         },
         {
             "category": "technology",
-            "title": "Wordle #1415: Clues and answer revealed for Sunday, May 4",
-            "body_text": "wordle is a daily word puzzle game that challenges players to guess a five-letter word within six attempts . the game's minimalist design and once-a-day format have contributed to its viral success . to solve today's wordle, we've curated a fresh array of hints and clues . we'll reveal the answer directly below if you haven't cracked the code yet ."
+            "title": "Desi startups making sexual health means Big Business",
+            "body_text": "sexual health and wellness startups address the needs of both male and female consumers . telehealth, improved logistics, and wider access to diagnostics have facilitated private and personalized care . this sector could grow into a billion-dollar market in the next 5–6 years, said ankur khaitan, principal at fireside ventures . the estimated 150 million Indian men suffer from sexual dysfunction or fertility issues ."
         },
         {
             "category": "technology",
-            "title": "Elon Musk creates in Texas that no other company and business leader has ever done, makes it a ...",
-            "body_text": "the site is located at Boca chica bay, near the border between the u.s. and mexico . the vote was held among about 283 eligible people, most of whom were SpaceX employees or had links to the company . in 2021, Musk first mentioned plans to create a city called Starbase . he said the area would include not just launch facilities but also homes, businesses, and public services to support future space missions ."
+            "title": "Wordle #1415: Clues and answer revealed for Sunday, May 4",
+            "body_text": "wordle is a daily word puzzle game that challenges players to guess a five-letter word within six attempts . the game's minimalist design and once-a-day format have contributed to its viral success . to solve today's wordle, we've curated a fresh array of hints and clues . we'll reveal the answer directly below if you haven't cracked the code yet ."
         }
     ],
     "Business": [
+        {
+            "category": "business",
+            "title": "Warren Buffett to hand over reins to Greg Abel: Top 10 things to know about ‘Oracle of Omaha’s’ successor at Berkshire Hathaway",
+            "body_text": "the world's most famous investor has revealed his decision to step down as 's CEO by year-end, appointing a 62-year-old low-key canadian executive as his successor . the board is set to conduct a vote regarding . abel's formal appointment as the new CEO, with the transition planned for the end of 2025 ."
+        },
         {
             "category": "business",
             "title": "India stock outlook: Markets brace for geopolitical tensions, Fed policy, FPI trends to steer sentiment",
@@ -88,8 +93,8 @@
         },
         {
             "category": "business",
-            "title": "Warren Buffett to hand over reins to Greg Abel: Top 10 things to know about ‘Oracle of Omaha’s’ successor at Berkshire Hathaway",
-            "body_text": "the world's most famous investor has revealed his decision to step down as 's CEO by year-end, appointing a 62-year-old low-key canadian executive as his successor . the board is set to conduct a vote regarding . abel's formal appointment as the new CEO, with the transition planned for the end of 2025 ."
+            "title": "Iron ore output soars 15% for NMDC in April, pellet production sets new record",
+            "body_text": "state-run mining major NMDC has recorded a 15 per cent increase in iron ore production and a 3 per cent rise in sales for the month of April . sales for April stood at 3.63 MnT, compared to 3.53mnt in April 2024, reflecting a growth of 3% . company also reported its highest-ever April pellet production at 0.23 lakh tonnes, surpassing the previous record set in 2018 ."
         },
         {
             "category": "business",
@@ -100,11 +105,6 @@
             "category": "business",
             "title": "‘There’s never been…’: What Apple’s Tim Cook, JPMorgan’s Jamie Dimon said on Warren Buffett's retirement move",
             "body_text": "Warren buffett announced he will retire at the end of the year . he has led the conglomerate for over 60 years . bank of america CEO Brian moynihan hailed him for his unparalleled success . environmentalist rose monahan scathing of the appointment of abel a scion of the company's ."
-        },
-        {
-            "category": "business",
-            "title": "'Harming America's textiles sector': US slams 'unfair trade practices' by China, India and others",
-            "body_text": "the united states trade representative (USTR) called out multiple countries, among them china and india, over their which it alleged were harming America's textiles and apparels sector . in a social media post, the USTR said that china's domestic manufacturers were enjoying unfair competitive advantages due to non-market policies and practices by china . these policies are enabling Chinese manufacturers to charge artificially low prices for their products, it said ."
         }
     ]
 }

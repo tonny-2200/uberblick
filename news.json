@@ -1,110 +1,106 @@
 {
+    "date": "2025-05-06",
     "World": [
         {
             "category": "world",
             "title": "US spy agencies reject Trump claim on Venezuelan gangs: Memo",
-            "body_text": "declassified memo by the national intelligence council, dated April 7, shows US spy agencies do not believe Trump's claims . Trump had used an obscure wartime law -- the 1798 (AEA) -- to deport people he alleged were members of the (TDA) criminal gang to a maximum security prison in El Salvador . memo aligns with intelligence findings first reported by the new york times in march ."
+            "body_text": "Declassified memo by the national intelligence council, dated april 7, shows us spy agencies do not believe trump's claims . Trump had used an obscure wartime law -- the 1798 (aea) -- to deport people he alleged were members of the (tda) criminal gang to a maximum security prison in el salvador . Memo aligns with intelligence findings first reported by the new york times in march ."
         },
         {
             "category": "world",
             "title": "Germany's Friedrich Merz falls short of majority in first vote to become chancellor",
-            "body_text": "in a secret ballot held on the eve of the 80th anniversary of world war ii, conservative leader failed to secure enough support to become chancellor . 310 votes in favour, just under the required 316 needed to secure a majority in the 630-member parliament . the vote was met with cheers by MPs from the far-right Alternative for Germany (afd), which recently scored over 20% in the election ."
+            "body_text": "In a secret ballot held on the eve of the 80th anniversary of world war ii, conservative leader failed to secure enough support to become chancellor . 310 votes in favour, just under the required 316 needed to secure a majority in the 630-member parliament . The vote was met with cheers by mps from the far-right alternative for germany (afd), which recently scored over 20% in the election ."
         },
         {
             "category": "world",
             "title": "Who is Ilhan Omar? and why is she so controversial?",
-            "body_text": "Omar has long been a target of repeated smear campaigns . latest controversy flared after clip of her suggesting white men in america should be profiled to address rising extremism . despite her endorsement, she has voiced concerns regarding Harris's outreach to Muslim and Arab american communities . she has also voiced her concerns about a lack of support for the muslim and arab american community ."
-        },
-        {
-            "category": "world",
-            "title": null,
-            "body_text": ""
+            "body_text": "Omar has long been a target of repeated smear campaigns . Latest controversy flared after clip of her suggesting white men in america should be profiled to address rising extremism . Despite her endorsement, she has voiced concerns regarding harris's outreach to muslim and arab american communities . She has also voiced her concerns about a lack of support for the muslim and arab american community ."
         },
         {
             "category": "world",
             "title": "Burundi orders new rights body to 'fight' UN envoy",
-            "body_text": "parliament appoints seven new members for burundi's human rights commission . its previous head fled into exile after being criticised by the head of the national assembly . national assembly president criticises UN special rapporteur on human rights in country . exiled rights activist says new commissioners are close to the ruling party and have little experience in human rights ."
+            "body_text": "Parliament appoints seven new members for burundi's human rights commission . Its previous head fled into exile after being criticised by the head of the national assembly . National assembly president criticises un special rapporteur on human rights in country . Exiled rights activist says new commissioners are close to the ruling party and have little experience in human rights ."
         }
     ],
     "Business": [
         {
             "category": "business",
             "title": "India's Services sector PMI surges to 58.7 in April; sees stronger growth",
-            "body_text": "services sector kicked off the new financial year with a positive note, with April’s PMI rising to 58.7 from 58.5 against the previous month . growth in the sector was driven by stronger demand and a sharp rise in new orders in April, after a brief spell of slowdown in march . the private sector also saw a modest improvement, with the composite PMI increasing to 59.7 in April from 59.5 in March, the strongest rate of expansion since august 2024 ."
+            "body_text": "Services sector kicked off the new financial year with a positive note, with april’s pmi rising to 58.7 from 58.5 against the previous month . Growth in the sector was driven by stronger demand and a sharp rise in new orders in april, after a brief spell of slowdown in march . The private sector also saw a modest improvement, with the composite pmi increasing to 59.7 in april from 59.5 in march, the strongest rate of expansion since august 2024 ."
         },
         {
             "category": "business",
             "title": "Moody’s cuts China 2025 GDP growth forecast to 3.8% weighed by ongoing tariff tensions",
-            "body_text": "the report projects Beijing’s real GDP growth for 2025 to stand at 3.8% and 3.9% in 2026, a sharp downgrade from its February projections of 4.5% and 4%, respectively . the outlook also falls well short of the Chinese government’s official 5% growth target . however, the country’s GDP rose by 5.4% year-on-year in the first quarter of 2025, indicating a strong start for the financial year ."
+            "body_text": "The report projects beijing’s real gdp growth for 2025 to stand at 3.8% and 3.9% in 2026, a sharp downgrade from its february projections of 4.5% and 4%, respectively . The outlook also falls well short of the chinese government’s official 5% growth target . However, the country’s gdp rose by 5.4% year-on-year in the first quarter of 2025, indicating a strong start for the financial year ."
         },
         {
             "category": "business",
             "title": "Moody's cuts India's 2025 GDP growth forecast to 6.3% amidst Trump's trade tariff uncertainty",
-            "body_text": "rating agency moody's has reduced india's GDP growth forecast for 2025 to 6.3% from 6.5% . agency has also highlighted that increasing geopolitical friction between india and Pakistan presents possible risks to this outlook . on April 22, a terror attack in pahalgam, jammu & Kashmir, resulted in 26 tourist killings . the rating agency has maintained its growth prediction for india at 6.5% for 2026, following a projected 6.7% growth in 2024."
+            "body_text": "Rating agency moody's has reduced india's gdp growth forecast for 2025 to 6.3% from 6.5% . Agency has also highlighted that increasing geopolitical friction between india and pakistan presents possible risks to this outlook . On april 22, a terror attack in pahalgam, jammu & kashmir, resulted in 26 tourist killings . The rating agency has maintained its growth prediction for india at 6.5% for 2026, following a projected 6.7% growth in 2024."
         },
         {
             "category": "business",
             "title": "Pakistan stock market drops around 4% since Pahalgam terror attack, but India’s Sensex is up 1.5%",
-            "body_text": "the escalating tensions between india and Pakistan post the terrorist attack have significantly impacted Pakistan stock markets . between April 23 and may 5, the Karachi Stock Exchange's benchmark recorded a 3.7% decline, affected by concerns of potential military conflict . the Indian BSE Sensex has shown resilience by gaining 1.5%, highlighting the difference in economic stability and market confidence between the two countries ."
+            "body_text": "The escalating tensions between india and pakistan post the terrorist attack have significantly impacted pakistan stock markets . Between april 23 and may 5, the karachi stock exchange's benchmark recorded a 3.7% decline, affected by concerns of potential military conflict . The indian bse sensex has shown resilience by gaining 1.5%, highlighting the difference in economic stability and market confidence between the two countries ."
         },
         {
             "category": "business",
             "title": "TCS gives 100% quarterly variable pay to 70% staff; remaining workforce sees lower numbers",
-            "body_text": "TCS, india's largest IT services firm, has distributed 100% quarterly variable compensation to over 70% of its workforce . the remaining staff received variable payments at reduced levels, based on their business units' performance outcomes . many employees from business units with good performance have been granted 100% of the variable pay . but those segments or verticals which have reported poor growth performance have given their employees lower payouts ."
+            "body_text": "Tcs, india's largest it services firm, has distributed 100% quarterly variable compensation to over 70% of its workforce . The remaining staff received variable payments at reduced levels, based on their business units' performance outcomes . Many employees from business units with good performance have been granted 100% of the variable pay . But those segments or verticals which have reported poor growth performance have given their employees lower payouts ."
         }
     ],
     "India": [
         {
             "category": "india",
             "title": "'Pakistan thought they had advantage but ...': Shashi Tharoor on closed-door UNSC meet called by Islamabad",
-            "body_text": "congress MP and former diplomat said the recent UNSC meeting on india-pakistan tensions did not go in Pakistan's favour . several member countries raised difficult questions on terrorism and Lashkar-Taiba (LeT), a terror outfit under Islamabad's shelter . he said that due to china's position, any resolution against Pakistan would be vetoed, and a resolution against india would not pass either ."
+            "body_text": "Congress mp and former diplomat said the recent unsc meeting on india-pakistan tensions did not go in pakistan's favour . Several member countries raised difficult questions on terrorism and lashkar-taiba (let), a terror outfit under islamabad's shelter . He said that due to china's position, any resolution against pakistan would be vetoed, and a resolution against india would not pass either ."
         },
         {
             "category": "india",
             "title": "'3000 arrests, 100 PSA detentions': PDP chief Mehbooba Mufti questions security agencies' response in Pahalgam attack aftermath",
-            "body_text": "mehbooba mufti has questioned the indiscriminate crackdown carried out by several security agencies in the aftermath of pahalgam terror attack . she claimed that a collective punishment was being imposed on the people with over 3,000 arrests and nearly 100 PSA detentions . the terror attack that took place on April 22 killed 26 people attracting a series of economic crackdowns against Pakistan by india ."
+            "body_text": "Mehbooba mufti has questioned the indiscriminate crackdown carried out by several security agencies in the aftermath of pahalgam terror attack . She claimed that a collective punishment was being imposed on the people with over 3,000 arrests and nearly 100 psa detentions . The terror attack that took place on april 22 killed 26 people attracting a series of economic crackdowns against pakistan by india ."
         },
         {
             "category": "india",
             "title": "Watch: BPSC aspirants lathi-charged outside Bihar CM Nitish Kumar's home in Patna",
-            "body_text": "police in bihar's patna lathi-charged aspirants holding a sit-in protest . they raised slogans against the state government and the BPSC, which conducted the exam . protesters alleged several persons were injured in the police action . officials denied this claim and said the protesters had been protesting for the past four months ."
+            "body_text": "Police in bihar's patna lathi-charged aspirants holding a sit-in protest . They raised slogans against the state government and the bpsc, which conducted the exam . Protesters alleged several persons were injured in the police action . Officials denied this claim and said the protesters had been protesting for the past four months ."
         },
         {
             "category": "india",
             "title": "Mock drill in India on May 7: What is it, what to expect? All your questions answered",
-            "body_text": "the exercise, set for may 7, intends to evaluate the nation's readiness for hostile attacks through various emergency simulations . the drill comes just weeks after 26 people, mostly tourists, were killed in a brutal terror attack in south Kashmir . prime minister Narendra modi has issued a stern warning, saying that the perpetrators will face punishment beyond their imagination ."
+            "body_text": "The exercise, set for may 7, intends to evaluate the nation's readiness for hostile attacks through various emergency simulations . The drill comes just weeks after 26 people, mostly tourists, were killed in a brutal terror attack in south kashmir . Prime minister narendra modi has issued a stern warning, saying that the perpetrators will face punishment beyond their imagination ."
         },
         {
             "category": "india",
             "title": "Pakistan to increase defence spending by 18% in budget amid tensions with India over Pahalgam attack: Report",
-            "body_text": "the government is slated to present the 2025-26 budget in the first week of next month . tensions between the two nations have escalated following the April 22 terror attack . there was a consensus between the PML-N and the PPP to increase the defense budget . Pakistani troops violated the ceasefire for the 12th consecutive time on monday ."
+            "body_text": "The government is slated to present the 2025-26 budget in the first week of next month . Tensions between the two nations have escalated following the april 22 terror attack . There was a consensus between the pml-n and the ppp to increase the defense budget . Pakistani troops violated the ceasefire for the 12th consecutive time on monday ."
         }
     ],
     "Technology": [
         {
             "category": "technology",
             "title": "Perplexity’s Desi CEO to Harvard students: This '5-word line' of Elon Musk keeps me going",
-            "body_text": "aravind Srinivas is the co-founder and CEO of AI search engine startup perplexity . he told students at the Harvard business summit that he draws significant inspiration from a motivational cliche . the desi-born entrepreneur said it's only over when you think it’s over, despite the challenges of building a tech startup ."
+            "body_text": "Aravind srinivas is the co-founder and ceo of ai search engine startup perplexity . He told students at the harvard business summit that he draws significant inspiration from a motivational cliche . The desi-born entrepreneur said it's only over when you think it’s over, despite the challenges of building a tech startup ."
         },
         {
             "category": "technology",
             "title": "Anti-ageing influencer Bryan Johnson wants to start a new religion in which ...",
-            "body_text": "multimillionaire anti-ageing influencer is founding a 'don't die' religion . he says AI is going to be omnipresent, and built into our everyday activities . the body is elevated to a position of authority, says the 47-year-old . \"we're trying to reimagine what it means to be human,\" says Johnson ."
+            "body_text": "Multimillionaire anti-ageing influencer is founding a 'don't die' religion . He says ai is going to be omnipresent, and built into our everyday activities . The body is elevated to a position of authority, says the 47-year-old . \"we're trying to reimagine what it means to be human,\" says johnson ."
         },
         {
             "category": "technology",
             "title": "Microsoft HR now 'bans' employees who are ...",
-            "body_text": "the tech giant is also tracking good attrition – a metric that counts certain employee departures as positive outcomes for the company . this policy overhaul comes as Microsoft recently fired approximately 2,000 employees deemed underperformers without severance . employees with zero and 60% rewards outcomes and/or on an active PIP will not be eligible for internal transfers ."
+            "body_text": "The tech giant is also tracking good attrition – a metric that counts certain employee departures as positive outcomes for the company . This policy overhaul comes as microsoft recently fired approximately 2,000 employees deemed underperformers without severance . Employees with zero and 60% rewards outcomes and/or on an active pip will not be eligible for internal transfers ."
         },
         {
             "category": "technology",
             "title": "JPMorgan Chase CEO Jamie Dimon on 'friend' Warren Buffet: He represents everything that is good about American ...",
-            "body_text": "Warren Buffett, the CEO of Berkshire hathaway announced his retirement last week . he further revealed that he will be succeeded by vice chairman Greg Abel . after this announcement, JPMorgan Chase CEO Jamie Dimon expressed his admiration for Buffett . Dimon said that Buffett represents everything that is good about american business . the Microsoft co-founder took to social media to share a heartfelt Congratulations message ."
+            "body_text": "Warren buffett, the ceo of berkshire hathaway announced his retirement last week . He further revealed that he will be succeeded by vice chairman greg abel . After this announcement, jpmorgan chase ceo jamie dimon expressed his admiration for buffett . Dimon said that buffett represents everything that is good about american business . The microsoft co-founder took to social media to share a heartfelt congratulations message ."
         },
         {
             "category": "technology",
             "title": "NYT Connections hints and answers for May 6, 2025",
-            "body_text": "NYT Connections is a daily word game offered by the new york times . players sort 16 words into four groups of four, where each group shares a common theme . each set is colour-coded from easiest to hardest: yellow, green, blue, and purple . if you have tried every angle and still feel stuck, here are today’s correct groupings for Puzzle #690 ."
+            "body_text": "Nyt connections is a daily word game offered by the new york times . Players sort 16 words into four groups of four, where each group shares a common theme . Each set is colour-coded from easiest to hardest: yellow, green, blue, and purple . If you have tried every angle and still feel stuck, here are today’s correct groupings for puzzle #690 ."
         }
     ]
 }
